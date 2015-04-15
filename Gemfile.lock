@@ -16,6 +16,8 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.2.0)
     rspec-support (3.2.2)
+    texplay (0.4.4.pre)
+      gosu (>= 0.7.25)
 
 PLATFORMS
   ruby
@@ -23,3 +25,4 @@ PLATFORMS
 DEPENDENCIES
   gosu
   rspec
+  texplay (= 0.4.4.pre)
